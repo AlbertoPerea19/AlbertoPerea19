@@ -15,7 +15,7 @@ Sleep😴? What's that? Sorry, I only know the code and the coffee☕👨‍💻
   <a href="https://www.instagram.com/betoperea19/ " target="_blank">
     <img align="left" alt="Rafael Perea's Instagram" title="Instagram | Rafael Perea" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> 
-  <a href="ralbertoperea@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
+  <a href="mailto:ralbertoperea@gmail.com?Subject=Aqui%20el%20asunto%20del%20mail">
     <img align="left" alt="Rafael Perea's Gmail" title="Gmail | Rafael Perea" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
